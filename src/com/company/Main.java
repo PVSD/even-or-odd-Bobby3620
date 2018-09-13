@@ -14,7 +14,7 @@ public class Main {
         if(kbEven == 0){
             System.out.println("The integer " + kbInt + " is even.");
         }else {
-            System.out.println("The integer " + kbInt + " is even.");
+            System.out.println("The integer " + kbInt + " is odd.");
         }
 
 
